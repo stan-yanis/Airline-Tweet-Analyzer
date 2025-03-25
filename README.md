@@ -13,11 +13,11 @@ This project leverages Python and Streamlit to create a web application with int
 - **Interactive Visualizations:**  
   Build dynamic bar and pie charts to visually represent tweet sentiments.
 
-  - **Geospatial Mapping:**  
+- **Geospatial Mapping:**  
   Visualize tweet locations on an interactive map.
 
 - **Airline Sentiment Analysis:**  
   Compare and analyze sentiment across various airlines.
 
-  - **Word Cloud Generation:**  
+- **Word Cloud Generation:**  
   Create word clouds for positive, neutral, and negative tweets.
